@@ -3,7 +3,7 @@
 
 Simple dice game to determine the winner between 2 players, Good Luck!
 
-<div align='center'>![](https://github.com/LSX99/Dice-Game-/blob/master/dicegame.gif)</div>
+![](https://github.com/LSX99/Dice-Game-/blob/master/dicegame.gif)
 
 
 # Project Details
