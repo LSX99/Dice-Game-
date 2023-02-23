@@ -1,3 +1,5 @@
+![alt text](https://github.com/LSX99/Dice-Game-/blob/master/%F0%9F%8E%B2Dice_Game%F0%9F%8E%B2.png)
+
 
 # Dice Game
 Simple dice game to determine the winner between 2 players, Good Luck!
