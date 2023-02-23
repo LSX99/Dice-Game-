@@ -7,7 +7,7 @@ Simple dice game to determine the winner between 2 players, Good Luck!
 
 
 # Project Details
-This project is an example built along with a Udemy Full Stack Developer Course. Every part of the project is sample code which shows how to do the following:
+This project is an example built along with ‘The Complete 2023 Web Development Bootcamp’ Udemy Course. Every part of the project is sample code which shows how to do the following:
 - Using the Document Object Model (DOM) to manipulate HTML element attributes
 - Deploying a website using HTML, CSS and Javascript Files
 # Usage
