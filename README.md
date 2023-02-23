@@ -22,4 +22,4 @@ Copy full path of dice.html and paste it on your web browser and enjoy the game:
 ## Option 2
 Head to https://lsx99.github.io/Dice-Game-/ and enjoy the game directly:)
 # Further Improvements
-    1.  Website is yet to be designed to be mobile and tablet responsive.
+    1. Additionals features can be implemented in the future
