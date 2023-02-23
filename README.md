@@ -1,5 +1,5 @@
 
-#Dice Game - LSX99
+# Dice Game - LSX99
 
 Simple dice game to determine the winner between 2 players, Good Luck!
 
