@@ -10,6 +10,7 @@ This project is an example built along with a Udemy Full Stack Developer Course.
 - Deploying a website using HTML, CSS and Javascript Files
 # Usage
 First assign a player to Player1 and the other to Player 2. 
+
 To play the game, you just need to refresh the site and the dice will be played!
 # User Installation
 ## Option 1
